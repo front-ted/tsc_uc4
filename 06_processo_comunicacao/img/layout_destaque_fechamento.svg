@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 905.25 1006.97">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#Gradiente_sem_nome_7-14);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-11, .cls-33, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-11, .cls-12, .cls-13, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32 {
+        stroke-width: 9px;
+      }
+
+      .cls-2 {
+        stroke: url(#Gradiente_sem_nome_7-28);
+      }
+
+      .cls-3 {
+        stroke: url(#Gradiente_sem_nome_7-29);
+      }
+
+      .cls-4 {
+        stroke: url(#Gradiente_sem_nome_7-2);
+      }
+
+      .cls-5 {
+        stroke: url(#Gradiente_sem_nome_7-21);
+      }
+
+      .cls-6 {
+        stroke: url(#Gradiente_sem_nome_7-3);
+      }
+
+      .cls-7 {
+        stroke: url(#Gradiente_sem_nome_7-10);
+      }
+
+      .cls-8 {
+        stroke: url(#Gradiente_sem_nome_7-7);
+      }
+
+      .cls-9 {
+        stroke: url(#Gradiente_sem_nome_7-22);
+      }
+
+      .cls-10 {
+        fill: #fff;
+        stroke: url(#Gradiente_sem_nome_7-31);
+        stroke-width: 5px;
+      }
+
+      .cls-11 {
+        stroke: url(#Gradiente_sem_nome_7-13);
+      }
+
+      .cls-34 {
+        font-family: Figtree-Regular, Figtree;
+      }
+
+      .cls-34, .cls-35 {
+        fill: #1d1d1b;
+        font-size: 20px;
+      }
+
+      .cls-12 {
+        stroke: url(#Gradiente_sem_nome_7-19);
+      }
+
+      .cls-13 {
+        stroke: url(#Gradiente_sem_nome_7-26);
+      }
+
+      .cls-14 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-15 {
+        stroke: url(#Gradiente_sem_nome_7-8);
+      }
+
+      .cls-16 {
+        stroke: url(#Gradiente_sem_nome_7-16);
+      }
+
+      .cls-17 {
+        stroke: url(#Gradiente_sem_nome_7-23);
+      }
+
+      .cls-18 {
+        stroke: url(#Gradiente_sem_nome_7-12);
+      }
+
+      .cls-19 {
+        stroke: url(#Gradiente_sem_nome_7-30);
+      }
+
+      .cls-20 {
+        stroke: url(#Gradiente_sem_nome_7-9);
+      }
+
+      .cls-21 {
+        stroke: url(#Gradiente_sem_nome_7-6);
+      }
+
+      .cls-36 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        stroke: url(#Gradiente_sem_nome_7-20);
+      }
+
+      .cls-37 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        stroke: url(#Gradiente_sem_nome_7-4);
+      }
+
+      .cls-24 {
+        stroke: url(#Gradiente_sem_nome_7);
+      }
+
+      .cls-25 {
+        stroke: url(#Gradiente_sem_nome_7-24);
+      }
+
+      .cls-26 {
+        stroke: url(#Gradiente_sem_nome_7-18);
+      }
+
+      .cls-27 {
+        stroke: url(#Gradiente_sem_nome_7-25);
+      }
+
+      .cls-28 {
+        stroke: url(#Gradiente_sem_nome_7-15);
+      }
+
+      .cls-29 {
+        stroke: url(#Gradiente_sem_nome_7-17);
+      }
+
+      .cls-30 {
+        stroke: url(#Gradiente_sem_nome_7-11);
+      }
+
+      .cls-31 {
+        stroke: url(#Gradiente_sem_nome_7-5);
+      }
+
+      .cls-32 {
+        stroke: url(#Gradiente_sem_nome_7-27);
+      }
+
+      .cls-38 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="cls-33" cx="750.17" cy="542.53" r="110"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_7" data-name="Gradiente sem nome 7" x1="645.02" y1="219.2" x2="897.63" y2="219.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92acce"/>
+      <stop offset="1" stop-color="#207893"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_7-2" data-name="Gradiente sem nome 7" x1="622.24" y1="543.94" x2="874.85" y2="543.94" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-3" data-name="Gradiente sem nome 7" x1="624.11" y1="517.34" x2="876.71" y2="517.34" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-4" data-name="Gradiente sem nome 7" x1="610.81" y1="706.87" x2="863.42" y2="706.87" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-5" data-name="Gradiente sem nome 7" x1="599.46" y1="868.69" x2="852.07" y2="868.69" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-6" data-name="Gradiente sem nome 7" x1="646.96" y1="191.49" x2="899.57" y2="191.49" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-7" data-name="Gradiente sem nome 7" x1="626.05" y1="489.63" x2="878.66" y2="489.63" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-8" data-name="Gradiente sem nome 7" x1="627.92" y1="463.03" x2="880.52" y2="463.03" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-9" data-name="Gradiente sem nome 7" x1="612.76" y1="679.16" x2="865.36" y2="679.16" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-10" data-name="Gradiente sem nome 7" x1="601.33" y1="842.09" x2="853.94" y2="842.09" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-11" data-name="Gradiente sem nome 7" x1="648.83" y1="164.89" x2="901.44" y2="164.89" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-12" data-name="Gradiente sem nome 7" x1="629.86" y1="435.32" x2="882.47" y2="435.32" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-13" data-name="Gradiente sem nome 7" x1="631.73" y1="408.72" x2="884.33" y2="408.72" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-14" data-name="Gradiente sem nome 7" x1="614.62" y1="652.56" x2="867.23" y2="652.56" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-15" data-name="Gradiente sem nome 7" x1="603.27" y1="814.38" x2="855.88" y2="814.38" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-16" data-name="Gradiente sem nome 7" x1="650.69" y1="138.29" x2="903.3" y2="138.29" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-17" data-name="Gradiente sem nome 7" x1="633.59" y1="382.12" x2="886.2" y2="382.12" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-18" data-name="Gradiente sem nome 7" x1="635.53" y1="354.41" x2="888.14" y2="354.41" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-19" data-name="Gradiente sem nome 7" x1="616.49" y1="625.96" x2="869.1" y2="625.96" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-20" data-name="Gradiente sem nome 7" x1="605.14" y1="787.78" x2="857.75" y2="787.78" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-21" data-name="Gradiente sem nome 7" x1="652.64" y1="110.58" x2="905.25" y2="110.58" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-22" data-name="Gradiente sem nome 7" x1="637.4" y1="327.81" x2="890.01" y2="327.81" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-23" data-name="Gradiente sem nome 7" x1="639.26" y1="300.66" x2="891.96" y2="300.66" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-24" data-name="Gradiente sem nome 7" x1="618.43" y1="598.25" x2="871.04" y2="598.25" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-25" data-name="Gradiente sem nome 7" x1="607" y1="761.18" x2="859.61" y2="761.18" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-26" data-name="Gradiente sem nome 7" x1="597.51" y1="895.84" x2="850.21" y2="895.84" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-27" data-name="Gradiente sem nome 7" x1="641.21" y1="273.51" x2="893.82" y2="273.51" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-28" data-name="Gradiente sem nome 7" x1="643.15" y1="245.8" x2="895.76" y2="245.8" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-29" data-name="Gradiente sem nome 7" x1="620.38" y1="570.54" x2="872.98" y2="570.54" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-30" data-name="Gradiente sem nome 7" x1="608.95" y1="733.47" x2="861.56" y2="733.47" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-31" data-name="Gradiente sem nome 7" x1="128.11" y1="729.58" x2="696.89" y2="160.8" xlink:href="#Gradiente_sem_nome_7"/>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g id="Grupo_358" data-name="Grupo 358">
+      <g id="Grupo_323" data-name="Grupo 323">
+        <g class="cls-38">
+          <g id="Grupo_de_máscara_11" data-name="Grupo de máscara 11">
+            <g id="Grupo_277" data-name="Grupo 277">
+              <line id="Linha_214" data-name="Linha 214" class="cls-24" x1="647.97" y1="326.38" x2="894.68" y2="112.01"/>
+              <line id="Linha_215" data-name="Linha 215" class="cls-4" x1="625.19" y1="651.12" x2="871.9" y2="436.76"/>
+              <line id="Linha_216" data-name="Linha 216" class="cls-6" x1="627.06" y1="624.52" x2="873.76" y2="410.16"/>
+              <line id="Linha_217" data-name="Linha 217" class="cls-23" x1="613.76" y1="814.05" x2="860.47" y2="599.68"/>
+              <line id="Linha_218" data-name="Linha 218" class="cls-31" x1="602.41" y1="975.87" x2="849.12" y2="761.5"/>
+              <line id="Linha_219" data-name="Linha 219" class="cls-21" x1="649.91" y1="298.67" x2="896.62" y2="84.31"/>
+              <line id="Linha_220" data-name="Linha 220" class="cls-8" x1="629" y1="596.82" x2="875.71" y2="382.45"/>
+              <line id="Linha_221" data-name="Linha 221" class="cls-15" x1="630.87" y1="570.21" x2="877.57" y2="355.85"/>
+              <line id="Linha_222" data-name="Linha 222" class="cls-20" x1="615.71" y1="786.34" x2="862.41" y2="571.98"/>
+              <line id="Linha_223" data-name="Linha 223" class="cls-7" x1="604.28" y1="949.27" x2="850.99" y2="734.9"/>
+              <line id="Linha_224" data-name="Linha 224" class="cls-30" x1="651.78" y1="272.07" x2="898.48" y2="57.71"/>
+              <line id="Linha_225" data-name="Linha 225" class="cls-18" x1="632.81" y1="542.51" x2="879.52" y2="328.14"/>
+              <line id="Linha_226" data-name="Linha 226" class="cls-11" x1="634.68" y1="515.91" x2="881.38" y2="301.54"/>
+              <line id="Linha_227" data-name="Linha 227" class="cls-1" x1="617.57" y1="759.74" x2="864.28" y2="545.38"/>
+              <line id="Linha_228" data-name="Linha 228" class="cls-28" x1="606.22" y1="921.56" x2="852.93" y2="707.19"/>
+              <line id="Linha_229" data-name="Linha 229" class="cls-16" x1="653.65" y1="245.47" x2="900.35" y2="31.11"/>
+              <line id="Linha_230" data-name="Linha 230" class="cls-29" x1="636.54" y1="489.31" x2="883.25" y2="274.94"/>
+              <line id="Linha_231" data-name="Linha 231" class="cls-26" x1="638.49" y1="461.6" x2="885.19" y2="247.23"/>
+              <line id="Linha_232" data-name="Linha 232" class="cls-12" x1="619.44" y1="733.14" x2="866.14" y2="518.78"/>
+              <line id="Linha_233" data-name="Linha 233" class="cls-22" x1="608.09" y1="894.96" x2="854.79" y2="680.59"/>
+              <line id="Linha_234" data-name="Linha 234" class="cls-5" x1="655.59" y1="217.76" x2="902.29" y2="3.4"/>
+              <line id="Linha_235" data-name="Linha 235" class="cls-9" x1="640.35" y1="435" x2="887.06" y2="220.63"/>
+              <line id="Linha_236" data-name="Linha 236" class="cls-17" x1="642.22" y1="408.4" x2="889" y2="192.92"/>
+              <line id="Linha_237" data-name="Linha 237" class="cls-25" x1="621.38" y1="705.43" x2="868.09" y2="491.07"/>
+              <line id="Linha_238" data-name="Linha 238" class="cls-27" x1="609.96" y1="868.36" x2="856.66" y2="653.99"/>
+              <line id="Linha_239" data-name="Linha 239" class="cls-13" x1="600.47" y1="1003.58" x2="847.25" y2="788.1"/>
+              <line id="Linha_240" data-name="Linha 240" class="cls-32" x1="644.16" y1="380.69" x2="890.87" y2="166.32"/>
+              <line id="Linha_241" data-name="Linha 241" class="cls-2" x1="646.1" y1="352.98" x2="892.81" y2="138.61"/>
+              <line id="Linha_242" data-name="Linha 242" class="cls-3" x1="623.33" y1="677.72" x2="870.03" y2="463.36"/>
+              <line id="Linha_243" data-name="Linha 243" class="cls-19" x1="611.9" y1="840.65" x2="858.6" y2="626.29"/>
+            </g>
+          </g>
+        </g>
+        <rect class="cls-10" x="2.5" y="278.23" width="820" height="333.92" rx="20" ry="20"/>
+        <text class="cls-35" transform="translate(395.14 402.5)"><tspan x="0" y="0">Nesse </tspan><tspan class="cls-37" x="60.9" y="0">ex</tspan><tspan x="81.12" y="0">emplo, a frase an</tspan><tspan class="cls-36" x="232.36" y="0">t</tspan><tspan x="239.86" y="0">erior ao </tspan><tspan class="cls-36" x="0" y="24">f</tspan><tspan x="7.32" y="24">echamen</tspan><tspan class="cls-36" x="89.52" y="24">t</tspan><tspan x="97.02" y="24">o es</tspan><tspan class="cls-36" x="133.8" y="24">t</tspan><tspan x="141.3" y="24">á ressal</tspan><tspan class="cls-36" x="207.34" y="24">t</tspan><tspan x="214.84" y="24">ando aos alunos </tspan><tspan x="0" y="48">que a dire</tspan><tspan class="cls-36" x="87.76" y="48">t</tspan><tspan x="95.26" y="48">ora es</tspan><tspan class="cls-36" x="149" y="48">t</tspan><tspan x="156.5" y="48">á con</tspan><tspan class="cls-36" x="205.2" y="48">t</tspan><tspan x="212.7" y="48">an</tspan><tspan class="cls-36" x="234.06" y="48">t</tspan><tspan x="241.56" y="48">o com a </tspan><tspan x="0" y="72">participação deles, agregando uma </tspan><tspan x="0" y="96">in</tspan><tspan class="cls-36" x="15.8" y="96">f</tspan><tspan x="23.12" y="96">ormação.</tspan></text>
+        <text class="cls-34" transform="translate(85.14 355.73)"><tspan x="0" y="0">(...)</tspan><tspan x="0" y="48">Con</tspan><tspan class="cls-36" x="37.18" y="48">t</tspan><tspan x="44.68" y="48">amos com sua </tspan><tspan x="0" y="72">participação.</tspan><tspan x="0" y="120">A</tspan><tspan class="cls-36" x="13.54" y="120">t</tspan><tspan x="21.04" y="120">enciosamen</tspan><tspan class="cls-36" x="128.8" y="120">t</tspan><tspan x="136.3" y="120">e,</tspan><tspan x="0" y="168">Mariana Coutinho</tspan><tspan x="0" y="192">Dire</tspan><tspan class="cls-36" x="36.08" y="192">t</tspan><tspan x="43.58" y="192">ora da Escola A</tspan></text>
+        <rect class="cls-14" x="59.5" y="317.23" width="257" height="257"/>
+      </g>
+    </g>
+  </g>
+</svg>

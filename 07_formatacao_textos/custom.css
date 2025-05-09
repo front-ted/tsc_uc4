@@ -1,0 +1,134 @@
+.bloco1{
+    background-image: url('img/bg.png');
+    background-size: 100% 100%;
+    padding: 30px 0px;
+    position: relative;
+}
+#bt-modal1,#bt-modal2,#bt-modal3,#bt-modal4,#bt-modal5,#bt-modal6{
+    width: 115px;
+    height: 155px;
+    border: none;
+    border-radius: none;
+    color: transparent;
+    margin: 20px;
+    /* transition: all 0.3s ease-in-out; */
+}
+#bt-modal1{
+    background-image: url('img/bt_word.png');
+}
+#bt-modal2{
+    background-image: url('img/bt_libre.png');
+}
+#bt-modal3{
+    background-image: url('img/bt_docs.png');
+}
+#bt-modal1:hover{
+    background-image: url('img/bt_word_hv.png');
+    background-color: transparent;
+}
+#bt-modal2:hover{
+    background-image: url('img/bt_libre_hv.png');
+    background-color: transparent;
+}
+#bt-modal3:hover{
+    background-image: url('img/bt_docs_hv.png');
+    background-color: transparent;
+}
+#bt-modal4{
+    background-image: url('img/bt_ppt.png');
+}
+#bt-modal5{
+    background-image: url('img/bt_canva.png');
+}
+#bt-modal6{
+    background-image: url('img/bt_docs.png');
+}
+#bt-modal4:hover{
+    background-image: url('img/bt_ppt_hv.png');
+    background-color: transparent;
+}
+#bt-modal5:hover{
+    background-image: url('img/bt_canva_hv.png');
+    background-color: transparent;
+}
+#bt-modal6:hover{
+    background-image: url('img/bt_docs_hv.png');
+    background-color: transparent;
+}
+#bt-modal8,#bt-modal9{
+    width: 184px;
+    height: 153px;
+    border: none;
+    border-radius: none;
+    color: transparent;
+    margin: 20px;
+    /* transition: all 0.3s ease-in-out; */
+}
+#bt-modal8:hover{
+    background-image: url('img/bt_artigo_hv.png');
+    background-color: transparent;
+}
+#bt-modal8{
+    background-image: url('img/bt_artigo.png');
+}
+#bt-modal9:hover{
+    background-image: url('img/bt_tcc_hv.png');
+    background-color: transparent;
+}
+#bt-modal9{
+    background-image: url('img/bt_tcc.png');
+}
+
+#bt-modal10,#bt-modal11,#bt-modal12,#bt-modal13,#bt-modal14{
+    width: 147px;
+    height: 147px;
+    border: none;
+    border-radius: none;
+    color: transparent;
+    margin: 20px;
+    background-color: transparent;
+    /* transition: all 0.3s ease-in-out; */
+}
+#bt-modal10:hover,#bt-modal11:hover,#bt-modal12:hover,#bt-modal13:hover,#bt-modal14:hover{
+    background-image: url('img/bt_duvida_hv.png');
+    background-color: transparent;
+    box-shadow: none;
+}
+#bt-modal10,#bt-modal11,#bt-modal12,#bt-modal13,#bt-modal14{
+    background-image: url('img/bt_duvida.png');
+}
+
+
+#bt-modal15{
+    /* width: 147px;
+    height: 147px;
+    border: none;
+    border-radius: none;
+    color: transparent;
+    margin: 20px; */
+    /* transition: all 0.3s ease-in-out; */
+    padding-right: 70px;
+}
+/* #bt-modal15:hover{
+    background-image: url('img/bt_duvida_hv.png');
+    background-color: transparent;
+}
+#bt-modal15{
+    position: relative;
+    background-image: url('img/bt_duvida.png');
+} */
+#bt-modal15::after{
+    content: '';
+    position: absolute;
+    background-image: url('img/bt_gpt.png');
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    top: 5px;
+    right: 15px;
+    z-index: 999;
+}
+
+.marcador-letras{
+    list-style-type: lower-alpha;
+}

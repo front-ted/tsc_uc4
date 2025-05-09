@@ -1,0 +1,94 @@
+.bloco1{
+    background-image: url('../04_comunicacao/img/bg.png');
+    background-size: 100% 100%;
+    padding: 30px 0px;
+    position: relative;
+    /* background-attachment: fixed; */
+}
+.bloco1,.bloco2,.bloco3, .bloco4, .bloco5, .bloco6, .bloco7, .bloco8, .bloco9, .bloco10, .bloco11, .bloco12{
+    /* background-image: url('img/bg.png'); */
+    /* background-size: 100% 100%; */
+    padding: 30px 0px;
+    position: relative;
+    /* background-attachment: fixed; */
+    background-image: url('../04_comunicacao/img/bg.png');
+    background-size: 100% 100%;
+}
+.marcador-letras{
+    list-style-type: lower-alpha;
+}
+#bt-modal1,#bt-modal2,#bt-modal3,#bt-modal4,#bt-modal5,#bt-modal6,#bt-modal7,#bt-modal8{
+    border: none;
+    border-radius: none;
+    color: transparent;
+    margin: 30px;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    /* transition: all 0.3s ease-in-out; */
+}
+#bt-modal3,#bt-modal4,#bt-modal5,#bt-modal6,#bt-modal7,#bt-modal8{
+    margin-top: -90px;
+}
+#bt-modal1:hover,#bt-modal2:hover,#bt-modal3:hover,#bt-modal4:hover,#bt-modal8:hover,#bt-modal7:hover,#bt-modal6:hover,#bt-modal5:hover{
+    box-shadow: none;
+}
+#bt-modal1{
+    background-image: url('img/bt_ponto.png');
+    width: 70px;
+    height: 19px;
+}
+#bt-modal2{
+    background-image: url('img/bt_frase.png');
+    width: 63px;
+    height: 19px;
+}
+#bt-modal3{
+    background-image: url('img/bt_oracao.png');
+    width: 87px;
+    height: 24px;
+}
+#bt-modal4{
+    background-image: url('img/bt_periodo.png');
+    width: 95px;
+    height: 19px;
+}
+#bt-modal5{
+    background-image: url('img/bt_virgula.png');
+    width: 94px;
+    height: 23px;
+}
+#bt-modal6{
+    background-image: url('img/bt_ponto-virgula.png');
+    width: 81px;
+    height: 41px;
+}
+#bt-modal7{
+    background-image: url('img/bt_2-pontos.png');
+    width: 71px;
+    height: 41px;
+}
+#bt-modal8{
+    background-image: url('img/bt_travessao.png');
+    width: 106px;
+    height: 17px;
+}
+.box-painel1{
+    width: 621px;
+    height: 541px;
+    margin: 0 auto;
+    background-image: url('img/painel_clicavel_pontuacao.png');
+}
+.box-painel2{
+    margin: 40px auto;
+}
+.box-painel2 button{
+    width: 200px;
+    margin: 20px;
+
+}
+.parallax-01{position: absolute; top: 1800px; max-width: 300px;}
+.parallax-02{position: absolute; right: 0; top: 1200px; max-width: 300px;}
+.parallax-03{position: absolute; top: 600px; max-width: 300px;}
+.parallax-04{position: absolute; right: 0; top: 1500px; max-width: 300px;}
+.parallax-05{position: absolute; max-width: 300px;}
+.parallax-06{position: absolute; top: 2592px; max-width: 300px;}

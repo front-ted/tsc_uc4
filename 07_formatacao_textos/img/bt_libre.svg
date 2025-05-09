@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 113.61 154.42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(33, 31, 31, .35);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #2b8e55;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-5 {
+        fill: #f0f1f1;
+      }
+
+      .cls-6 {
+        stroke: #fafafa;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #fafafa;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" width="113.61" height="154.42"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-2" x="73.37" width="40.24" height="39.63"/>
+    </clipPath>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <g>
+        <g class="cls-8">
+          <path class="cls-3" d="M74.23,0H11.03C5.5,0,.76,4.74.76,10.27v133.49c0,5.53,4.74,10.27,10.27,10.27h91.24c5.53,0,10.27-4.74,10.27-10.27V38.71L74.23,0Z"/>
+        </g>
+        <g class="cls-4">
+          <path class="cls-1" d="M74.23,0v38.71h38.32"/>
+        </g>
+        <path class="cls-5" d="M91.21,84.52H24.46c-1.97,0-3.55-1.58-3.55-3.55s1.58-3.55,3.55-3.55h66.76c1.97,0,3.55,1.58,3.55,3.55s-1.58,3.55-3.55,3.55Z"/>
+        <path class="cls-5" d="M60.8,125.99H24.46c-1.97,0-3.55-1.58-3.55-3.55s1.58-3.55,3.55-3.55h36.34c1.97,0,3.55,1.58,3.55,3.55,0,1.58-1.58,3.55-3.55,3.55Z"/>
+        <path class="cls-5" d="M77.78,105.06H24.46c-1.97,0-3.55-1.58-3.55-3.55s1.58-3.55,3.55-3.55h53.32c1.98,0,3.56,1.58,3.56,3.55s-1.58,3.55-3.56,3.55Z"/>
+        <path class="cls-5" d="M91.21,84.52H24.46c-1.97,0-3.55-1.58-3.55-3.55s1.58-3.55,3.55-3.55h66.76c1.97,0,3.55,1.58,3.55,3.55s-1.58,3.55-3.55,3.55Z"/>
+      </g>
+      <g>
+        <path class="cls-6" d="M22.52,27.12h14.93s10.98,10.83,10.98,10.83c0,0-.16,16.56,0,20.62l-25.84-.02-.06-31.43ZM47.03,57.16v-18.36l-10.36-10.36h-12.84v28.72h23.2Z"/>
+        <polygon class="cls-7" points="42.07 24.61 50.58 24.61 51.06 25.08 51.06 33.28 50.26 33.78 49.3 33.46 41.63 25.35 42.07 24.61"/>
+      </g>
+    </g>
+  </g>
+</svg>

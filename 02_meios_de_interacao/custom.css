@@ -1,0 +1,123 @@
+.bloco0{
+    background-image: url('img/bg_introducao.svg');
+    background-size: cover;
+    padding: 30px 0px;
+    position: relative;
+}.bloco1{
+    background-image: url('img/bg1.svg');
+    background-size: cover;
+    padding: 30px 0px;
+    position: relative;
+}
+.bloco3{
+    background-image: url('img/bg2.svg');
+    background-size: cover;
+    padding: 30px 0px;
+    position: relative;
+}
+.img-dstq1{
+    float: left;
+    margin-left: -300px;
+    max-width: 400px;
+    margin-top: -30px;
+}
+.parallax-01{
+    position: absolute;
+    right: 0;
+    width: 300px;
+}
+.parallax-02,.parallax-03,.parallax-04,.parallax-05{
+    position: absolute;
+    width: 300px;
+}
+.parallax-02,.parallax-04{
+    position: absolute;
+    /* right: 0; */
+    width: 300px;
+}
+.parallax-03,.parallax-05{
+    right: 0;
+}
+.parallax-02{}
+.parallax-03{top: 1400px;}
+.parallax-04{top: 1900px;}
+.parallax-05{top: 4000px;}
+#bt-modal1,#bt-modal2{
+    width: 242px;
+    height: 113px;
+    border: none;
+    border-radius: none;
+    color: transparent;
+    margin: 20px;
+    /* transition: all 0.3s ease-in-out; */
+}
+#bt-modal1{
+    background-image: url('img/bt_externo.svg');
+}
+#bt-modal2{
+    background-image: url('img/bt_interno.svg');
+}
+#bt-modal1:hover{
+    background-image: url('img/bt_externo_hv.svg');
+}
+#bt-modal2:hover{
+    background-image: url('img/bt_interno_hv.svg');
+}
+
+#bt-modal3,#bt-modal4,#bt-modal5,#bt-modal6,#bt-modal7{
+    background-color: transparent;
+    border: none;
+    border-radius: none;
+    color: transparent;
+    margin: 20px;
+    /* transition: all 0.3s ease-in-out; */
+}
+#bt-modal4{
+    background-image: url('img/bt_blackboard.svg');
+    width: 128px;
+    height: 114px;
+}
+#bt-modal5{
+    background-image: url('img/bt_meet.svg');
+    width: 115px;
+    height: 115px;
+}
+#bt-modal6{
+    background-image: url('img/bt_zoom.svg');
+    width: 128px;
+    height: 128px;
+}
+#bt-modal7{
+    background-image: url('img/bt_teams.svg');
+    width: 125px;
+    height: 141px;
+}
+#bt-modal3:hover{
+    box-shadow: unset;
+}
+#bt-modal4:hover{
+    background-image: url('img/bt_blackboard-hv.svg');
+    box-shadow: unset;
+}
+#bt-modal5:hover{
+    background-image: url('img/bt_meet-hv.svg');
+    box-shadow: unset;
+}
+#bt-modal6:hover{
+    background-image: url('img/bt_zoom-hv.svg');
+    box-shadow: unset;
+}
+#bt-modal7:hover{
+    background-image: url('img/bt_teams.svg');
+    box-shadow: unset;
+}
+@media (max-width: 1380px){
+    .parallax-01,.parallax-02,.parallax-03,.parallax-04,.parallax-05{
+        max-width: 200px;
+    }
+}
+@media (max-width: 1200px){
+    .parallax-01,.parallax-02,.parallax-03,.parallax-04,.parallax-05{
+        display: none;
+    }
+}

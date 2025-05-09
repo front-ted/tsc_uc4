@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_29);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_29" data-name="Gradiente sem nome 29" x1="-64.73" y1="1130.7" x2="2063.27" y2="-95.97" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92acce"/>
+      <stop offset=".17" stop-color="#bbcbe0" stop-opacity=".62"/>
+      <stop offset=".34" stop-color="#dfe7f1" stop-opacity=".28"/>
+      <stop offset=".46" stop-color="#f6f8fb" stop-opacity=".08"/>
+      <stop offset=".52" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".6" stop-color="#f9fbfc" stop-opacity=".03"/>
+      <stop offset=".68" stop-color="#e7f0f3" stop-opacity=".1"/>
+      <stop offset=".76" stop-color="#cadfe5" stop-opacity=".24"/>
+      <stop offset=".84" stop-color="#a1c6d1" stop-opacity=".42"/>
+      <stop offset=".91" stop-color="#6ca6b7" stop-opacity=".66"/>
+      <stop offset=".99" stop-color="#2c7f98" stop-opacity=".94"/>
+      <stop offset="1" stop-color="#207893"/>
+    </linearGradient>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <rect class="cls-1" width="1920" height="1080"/>
+  </g>
+</svg>

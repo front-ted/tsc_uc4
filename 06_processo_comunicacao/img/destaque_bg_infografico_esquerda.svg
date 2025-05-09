@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 224.26 224.26">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask);
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_60);
+      }
+
+      .cls-3 {
+        fill: #d1d1d1;
+      }
+    </style>
+    <mask id="mask" x="-1.59" y="-7.31" width="226.29" height="231.57" maskUnits="userSpaceOnUse">
+      <g id="mask0_88_34" data-name="mask0 88 34">
+        <rect class="cls-3" x="-1.59" y="-7.31" width="9.58" height="230.1"/>
+        <rect class="cls-3" x="18.11" y="-7.31" width="9.58" height="230.1"/>
+        <rect class="cls-3" x="37.81" y="-7.31" width="9.58" height="230.1"/>
+        <rect class="cls-3" x="57.51" y="-7.31" width="9.58" height="230.1"/>
+        <rect class="cls-3" x="77.21" y="-7.31" width="9.58" height="230.1"/>
+        <rect class="cls-3" x="96.91" y="-7.31" width="9.58" height="230.1"/>
+        <rect class="cls-3" x="116.61" y="-7.31" width="9.58" height="230.1"/>
+        <rect class="cls-3" x="136.31" y="-7.31" width="9.58" height="230.1"/>
+        <rect class="cls-3" x="156.01" y="-7.31" width="9.58" height="230.1"/>
+        <rect class="cls-3" x="175.72" y="-7.31" width="9.58" height="230.1"/>
+        <rect class="cls-3" x="195.41" y="-7.31" width="9.58" height="230.1"/>
+        <rect class="cls-3" x="215.12" y="-7.31" width="9.58" height="230.1"/>
+      </g>
+    </mask>
+    <linearGradient id="Gradiente_sem_nome_60" data-name="Gradiente sem nome 60" x1="1151.57" y1="-10378.6" x2="1342.37" y2="-10378.6" gradientTransform="translate(10490.73 -1134.85) rotate(90) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92acce"/>
+      <stop offset=".32" stop-color="#87a6c9"/>
+      <stop offset="1" stop-color="#207893"/>
+    </linearGradient>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g class="cls-1">
+      <rect class="cls-2" x="16.73" y="16.73" width="190.8" height="190.8" transform="translate(-19.66 200.31) rotate(-78.79)"/>
+    </g>
+  </g>
+</svg>

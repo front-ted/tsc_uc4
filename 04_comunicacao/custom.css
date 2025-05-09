@@ -1,0 +1,89 @@
+.bloco1{
+    background-image: url('img/bg.png');
+    background-size: 100% 100%;
+    padding: 30px 0px;
+    position: relative;
+    /* background-attachment: fixed; */
+}
+.bgficha{
+    background-image: url('img/bg_ficha.svg');
+    
+    background-size: 100% 100%;
+}
+.destaque.icone.email::before {
+    background: url("img/elemento_caixa_destaque_email_esquerda.png") no-repeat;
+    width: 156px;
+    height: 168px;
+    top: -90px;
+    left: -90px;margin: unset;
+}
+.grafismo.emailgraf::after{
+    background: url('img/elemento_caixa_destaque_email_direita.png') no-repeat;
+    background-size: cover;
+    width: 244px;
+    height: 183px;
+    z-index: 10;
+    right: -130px;
+    bottom: -80px;
+}
+.lista-macadores p{
+        margin-bottom: 0px;
+}
+.lista-macadores > li{
+    margin-bottom: 30px;
+}
+/* #bt-modal9,#bt-modal8,#bt-modal7,#bt-modal6,#bt-modal5{
+    width: 182px;
+    height: 206px;
+    border: none;
+    border-radius: none;
+    color: transparent;
+    margin: 30px;
+    background-color: transparent;
+} */
+#bt-modal9:hover,#bt-modal8:hover,#bt-modal7:hover,#bt-modal6:hover,#bt-modal5:hover{
+    box-shadow: none;
+}
+#bt-modal8{
+    background-image: url('img/bt_ambiente_1.png');
+}
+#bt-modal9{
+    background-image: url('img/bt_assunto_1.png');
+}
+#bt-modal5{
+    background-image: url('img/bt_falante_1.png');
+}
+#bt-modal6{
+    background-image: url('img/bt_intencao_1.png');
+}
+#bt-modal7{
+    background-image: url('img/bt_interlocutor_1.png');
+}
+.box-painel1 .col-5 img{
+    max-width: 310px;
+}
+.box-painel1 button{
+    max-width: 250px;
+    max-height: 150px;
+    margin: 10px 0px;
+}
+.box-painel1 button:nth-child(2),.box-painel1 button:nth-child(3){
+    max-width: 250px;
+    max-height: 100px;
+}
+
+.parallax-01,.parallax-02,.parallax-03,.parallax-04,.parallax-05,.parallax-06{
+    max-width: 290px;
+}
+.parallax-01,.parallax-02,.parallax-03,.parallax-04,.parallax-05,.parallax-06{
+    position: absolute;
+}
+.parallax-01,.parallax-05{
+    right: 0;
+}
+.parallax-01{top: 800px;}
+.parallax-02{top: 1600px;}
+.parallax-03{top: 6540px; max-width: 250px;}
+.parallax-04{top: 9800px;}
+.parallax-05{top: 6800px;}
+.parallax-06{top: 12000px;}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 517.72 161.5">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 7px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        fill: #1d1d1b;
+        font-size: 20px;
+      }
+
+      .cls-2 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: #ea3700;
+      }
+
+      .cls-7 {
+        fill: #2a9b00;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke-width: .75px;
+      }
+    </style>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <text class="cls-4" transform="translate(25.28 41.61)"><tspan x="0" y="0">Lorem ipsum ,</tspan><tspan x="0" y="60">dolor sit amet, </tspan><tspan x="0" y="90">consec</tspan><tspan class="cls-5" x="64.64" y="90">t</tspan><tspan x="72.14" y="90">etuer </tspan></text>
+      <rect class="cls-2" x=".5" y=".5" width="181" height="160"/>
+    </g>
+    <g>
+      <text class="cls-4" transform="translate(307.78 42.11)"><tspan x="0" y="0">Lorem ipsum ,</tspan><tspan x="0" y="60">dolor sit amet, </tspan><tspan x="0" y="90">consec</tspan><tspan class="cls-5" x="64.64" y="90">t</tspan><tspan x="72.14" y="90">etuer </tspan></text>
+      <rect class="cls-2" x="283" y="1" width="181" height="160"/>
+      <line class="cls-2" x1="305.5" y1="73.5" x2="448.5" y2="73.5"/>
+    </g>
+    <g>
+      <circle class="cls-7" cx="185.5" cy="73.5" r="32"/>
+      <polyline class="cls-1" points="170.76 80.87 177.39 87.5 200.24 59.5"/>
+    </g>
+    <g>
+      <circle class="cls-6" cx="485.72" cy="73.38" r="32"/>
+      <path class="cls-3" d="M499.03,87.04l-8.92-12.67c-.67-.96-.67-2.24,0-3.2l8.05-11.44c1.29-1.84-.02-4.38-2.27-4.38h-.03c-.92,0-1.78.46-2.3,1.22l-7.8,11.54-7.86-11.54c-.52-.76-1.38-1.21-2.3-1.21h0c-2.26,0-3.57,2.55-2.26,4.39l8.09,11.37c.69.96.69,2.25,0,3.22l-9.03,12.7c-1.31,1.84,0,4.39,2.26,4.39h.14c.92,0,1.78-.46,2.3-1.22l8.68-12.8,8.56,12.79c.52.77,1.38,1.23,2.31,1.23h.09c2.25,0,3.57-2.54,2.27-4.38Z"/>
+    </g>
+  </g>
+</svg>

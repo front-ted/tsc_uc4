@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 425.33 1050.86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #92acce;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" width="315.44" height="1049.88"/>
+    </clipPath>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g class="cls-3">
+      <rect class="cls-1" x="93.32" y="335.52" width="303.37" height="303.37" transform="translate(-97.46 62.81) rotate(-12.21)"/>
+      <rect class="cls-1" x="122.84" y="794.4" width="221.3" height="221.3" transform="translate(-689.03 754.76) rotate(-66.28)"/>
+      <rect class="cls-1" x="27.95" y="98.58" width="148.54" height="148.54" transform="translate(-95.96 205.26) rotate(-68.69)"/>
+    </g>
+  </g>
+</svg>

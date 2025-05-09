@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 989.5 581">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #1d1d1b;
+        font-family: Figtree-Regular, Figtree;
+        font-size: 20px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-5 {
+        fill: #f903c5;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        font-size: 39.25px;
+      }
+
+      .cls-9 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <rect class="cls-5" x="584.89" y="169.06" width="404.61" height="176.44" rx="50.29" ry="50.29"/>
+      <text class="cls-2" transform="translate(654.42 246.21)"><tspan x="0" y="0">BORDA PRE</tspan><tspan class="cls-9" x="217.16" y="0">T</tspan><tspan x="237.57" y="0">A </tspan><tspan x="-24.55" y="47.1">FUNDO B</tspan><tspan class="cls-12" x="146.89" y="47.1">R</tspan><tspan x="172.44" y="47.1">ANCO</tspan></text>
+    </g>
+    <g>
+      <g>
+        <rect class="cls-1" x=".5" y=".5" width="506" height="580"/>
+        <path d="M506,1v579H1V1h505M507,0H0v581h507V0h0Z"/>
+      </g>
+      <text class="cls-3" transform="translate(43.72 50.63)"><tspan x="0" y="0">FORMULÁRIO DE CADASTRO DE N</tspan><tspan class="cls-10" x="320.42" y="0">O</tspan><tspan class="cls-11" x="335.76" y="0">V</tspan><tspan x="349.56" y="0">O </tspan><tspan x="0" y="30">COLABO</tspan><tspan class="cls-8" x="81.62" y="30">R</tspan><tspan x="94.18" y="30">ADOR</tspan><tspan x="0" y="90">Nome comple</tspan><tspan class="cls-11" x="126.54" y="90">t</tspan><tspan x="134.04" y="90">o: </tspan><tspan x="0" y="120">_____________________________________________</tspan><tspan x="0" y="150">Da</tspan><tspan class="cls-11" x="23.96" y="150">t</tspan><tspan x="31.46" y="150">a de nascimen</tspan><tspan class="cls-11" x="159.42" y="150">t</tspan><tspan x="166.92" y="150">o: ____________________</tspan><tspan x="0" y="180">Endereço: </tspan><tspan x="0" y="210">_______________________________________________</tspan><tspan x="0" y="240">____</tspan><tspan class="cls-4" x="0" y="270">T</tspan><tspan class="cls-7" x="9.8" y="270">ele</tspan><tspan class="cls-6" x="36.04" y="270">f</tspan><tspan class="cls-7" x="43.36" y="270">ones para con</tspan><tspan class="cls-11" x="168.8" y="270">t</tspan><tspan x="176.3" y="270">a</tspan><tspan class="cls-11" x="186.5" y="270">t</tspan><tspan class="cls-7" x="194" y="270">o: </tspan><tspan x="0" y="300">________________________________________</tspan><tspan x="0" y="330">Filiação: </tspan><tspan x="0" y="360">_______________________________________________</tspan><tspan x="0" y="390">______</tspan><tspan x="0" y="420">RG: ___________________________________</tspan><tspan x="0" y="450">CPF: __________________________________</tspan><tspan x="0" y="480">Tipo sanguíneo: __________________________</tspan></text>
+    </g>
+  </g>
+</svg>
